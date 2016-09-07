@@ -1,0 +1,15 @@
+//
+//  JS.pch
+//  JSPatchDemo
+//
+//  Created by chuanglong02 on 16/9/1.
+//  Copyright © 2016年 chuanglong02. All rights reserved.
+//
+
+#ifndef JS_pch
+#define JS_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <JSPatch/JSPatch.h>
+#endif /* JS_pch */
